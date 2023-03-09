@@ -1,12 +1,12 @@
 <div align="center">
-      <h1> <img src="https://i.imgur.com/16rU7yy.png" width="180px"><br/>Git e GitHub</h1>
+      <h1> <img src="https://i.imgur.com/16rU7yy.png" width="200px"><br/>Curso de Git e GitHub</h1>
      </div>
 
 
-
-O que é Git? Sabe a diferença entre Git e GitHub?
-
 # Descrição
+O que é Git? Sabe a diferença entre Git e GitHub? Curso com carga horaria 20 horas.
+
+# Características
  Já tentou aprender versionamento, mas achou complicado ter que aprender dezenas de comandos e parâmetros? Gustavo Guanabara disponibiliza um curso prático, onde não descomplicando seu uso! Capacitando o usuário de utilizar softwares de versionamento sem digitar nenhum comando no terminal.
 
 
