@@ -6,7 +6,7 @@
 # Descrição
 O que é Git? Sabe a diferença entre Git e GitHub? Curso com carga horaria 20 horas.
 
-# Características
+## Características
  Já tentou aprender versionamento, mas achou complicado ter que aprender dezenas de comandos e parâmetros? Gustavo Guanabara disponibiliza um curso prático, onde não descomplicando seu uso! Capacitando o usuário de utilizar softwares de versionamento sem digitar nenhum comando no terminal.
 
 
