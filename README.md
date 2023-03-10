@@ -20,11 +20,15 @@ O que é Git? Sabe a diferença entre Git e GitHub? Curso com carga horaria 20 h
 - Git Branches.
 - Hospedagem no GitHub Pages.
 
-
- 
-![](https://img.shields.io/badge/curso-em%20Andamento-green)
-# #Gafanhoto.
-
+# Screenshots
+ <img src="https://i.imgur.com/q5ba3CO.png"> <img src="https://i.imgur.com/Vl5Q19Q.png">
+# Tech Used
+ ![Github](https://img.shields.io/badge/Git-Github-orange)
       
+# Mais detalhes:
+100% Aproveitamento
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
+
+Ps: Agradecimento especial ao Gustavo Guanabara por compartilhar seu conhecimento e a maestria em Ensinar.      
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
-    
